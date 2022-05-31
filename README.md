@@ -1,7 +1,5 @@
 # Homework 3 in the Subject Mathematics 2
 
-----
-
 The version of ```R``` used for this homework is **4.2.0**.
 
 In the files ```MH_part.R```, ```HMC_part.R``` and ```rejection_part.R``` we have the code
